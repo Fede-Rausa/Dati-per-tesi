@@ -2,9 +2,11 @@
 
 Dati per la tesi in Fondamenti di Data Analytics
 
-Il dataset impreseItaliane.csv contiene, per ogni impresa per cui sono disponibili tutti questi dati,
-provincia lombarda ateco codes 2007, fatturato, imposte, numero dipendenti, e due voci da stato patrimoniale: 
-diritti di brevetto e spese in ricerca e pubblicità. 
+Il dataset impreseItaliane.csv contiene, per ogni impresa per cui sono disponibili questi valori:
+RagioneSociale;Provincia;ATECO_2007;Ricavi;SalariStipendi;TotImposte;Costi_ricerca_pubb;Diritti_brevetto;Dipendenti;ROI;EBITDA;CostiMateriePrime;CostiServizi;
+CostiGodimentoBeniDiTerzi;CostiImpiantoAmpl;ImmoMateriali;TurnoverRatio;IndLiquidit;IndiceIndipFinanz
+
+Il dataset comprende oltre 173000 imprese (circa il 13% dell'economia in Italia). Alcune delle variabili continue sono valori espressi in migliaia di euro, altre sono tassi. La colonna Dipendenti comprende i conteggi dei dipendenti dell'azienda.
 Questo dataset proviene dal database Aida, accessibile dal portale insuBRE per gli studenti.
 
 Il file province-regioni include una semplice tabella con la corrispondente regione per ogni provincia. 
