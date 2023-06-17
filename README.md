@@ -14,6 +14,7 @@ Questo dataset proviene dal database Aida, accessibile dal portale insuBRE per g
 
 Il file province-regioni include una semplice tabella con la corrispondente regione per ogni provincia. 
 E' utile per filtrare i dati in base alla regione su tabelle conteneti solo le province.
+latlon.csv contiene latitudine e longitudine di ogni capoluogo di provincia.
 I file codici_ateco e macro_settori contengono i nomi corrispondenti ad ogni attività produttiva in base al codice ateco.
 
 Il dataset codici040 contiene i testi di 40 codici di legge, suddivisi per articoli, con i relativi testi, per un totale di 18000 articoli
