@@ -2,6 +2,9 @@
 
 Dati per la tesi in Fondamenti di Data Analytics
 
+Il file marketCluster.R comprende parte del codice inerente la tesi sui settori Ateco in Italia.
+Il file lawMining.R comprende il codice, quasi completo, per la tesi sul clustering delle leggi in Italia.
+
 Il dataset impreseItaliane.csv contiene, per ogni impresa per cui sono disponibili questi valori:
 RagioneSociale;Provincia;ATECO_2007;Ricavi;SalariStipendi;TotImposte;Costi_ricerca_pubb;Diritti_brevetto;Dipendenti;ROI;EBITDA;CostiMateriePrime;CostiServizi;
 CostiGodimentoBeniDiTerzi;CostiImpiantoAmpl;ImmoMateriali;TurnoverRatio;IndLiquidit;IndiceIndipFinanz
